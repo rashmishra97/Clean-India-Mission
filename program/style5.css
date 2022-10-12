@@ -1,0 +1,33 @@
+body {
+	background: #eee;
+	background-image: url("book.jpg"), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 1500px;
+	opacity: 0.6px;
+}
+label {
+	color: white;
+	margin-left: 420px; 
+	font-weight: bolder;
+
+}
+.namin {
+	margin-left: 30px;
+	margin-top: 40px;
+	border: 1px solid blue;
+	border-width: 30px;
+	font-weight: bolder;
+
+}
+.contin {
+	margin: 10px;
+	border: 1px solid blue;
+	border-width: 30px;
+	border-height: 50px;
+	font-weight: bolder;
+
+}
+label .nam .cont {
+		font-weight: bolder;
+}

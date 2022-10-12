@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-image: url(book.jpg);
+	
+}
+li {
+	box-sizing: 20px;
+}

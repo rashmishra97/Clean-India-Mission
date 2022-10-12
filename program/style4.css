@@ -1,0 +1,124 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#container {
+	background-color: white;
+	width: 640px;
+	height: 630px;
+	/*margin-right: auto;*/
+	/*margin-left: auto;*/
+	margin-top: -30px;
+}
+.frm {
+	margin-top: 0px;
+}
+
+body {
+	background-color: #eee;
+	background-size: cover;
+	background-width: 100%;
+	color: black;
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(book.jpg);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 380px;
+	top: 30px;
+	/*font-size: 25px;*/
+	padding: 0px;
+	margin-top: 0;
+
+}
+h2 {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: lightblue;
+	color: black;
+	padding: 5px 95px;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 0;
+
+}
+.inputform {
+	font-size: 25px;
+	padding-left: 50px;
+	padding-top: 20px;
+	box-sizing: content-box;
+	background: #f2f2f2;
+
+}
+label {
+	font-size: 20px;
+}
+
+.name {
+		padding: 5px 5px;
+		font-size: 16px;
+		margin-left: 90px;
+		margin-top: 5px;
+		outline: 13;
+}
+.last {
+	padding: 5px 5px;
+	font-size: 16px;
+	margin-left: 92px;
+	margin-top: 5px;
+}
+.email{
+     padding: 5px;
+	font-size: 16px;
+	margin-left: 138px;
+	margin-top: 5px;
+}
+.password {
+			padding: 5px;
+	font-size: 16px;
+	margin-left: 109px;
+	margin-top: 5px;
+}
+.mobile {
+	margin-right: 40px;
+	margin-top: 10px;
+
+}
+.mbl {
+	padding: 5px;
+	font-size: 16px;
+	margin-left: 138px;
+	margin-top: 5px;
+}
+		
+.male {
+	
+	margin-left: 70px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 16px;
+}
+.female {
+		/*padding: 15px;*/
+	/*font-size: 16px;*/
+	/*margin-left: 70px;*/
+}
+.add {
+	   padding: 5px;
+	font-size: 16px;
+	margin-left: 60px;
+	margin-top: 5px;
+}
+.skill {
+	padding-left: 70px;
+	padding-bottom: 20px;
+
+}
+.submit {
+	padding: 5px 15px;
+	text-align: right;
+	/*font-size: 0px;*/
+}
+.data {
+	padding: 5px;
+	margin-bottom: 5px;
+
+}
